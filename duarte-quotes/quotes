@@ -1,0 +1,12 @@
+um reggae shark é que é bacano
+
+tou aqui pareço um macho depois de comer um fardo de palha
+
+mandeiumamocadanamesafdx
+
+3 separate speech functions:
+- reply: 20% chance that the bot replies to a user with a relevant sentence
+- comment: after a random interval, spit out a quote selected by relevance+ hour of day
+- react: react to a username after a message
+
+if link to video, check if nsfw, and reply with "boa peida"
